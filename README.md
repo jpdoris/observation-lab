@@ -21,3 +21,9 @@ and view and manage report status.
  - comment this line in database/seeds/DatabaseSeeder.php: "$this->call(ReportTableSeeder::class);"
 8. Seed tables:
  - php artisan db:seed
+
+#### Admin Login:
+Default login email is admin@example.com
+Default password is set in the 'SU_PASSWORD' field in the.env file 
+
+ 
