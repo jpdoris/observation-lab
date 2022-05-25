@@ -30,7 +30,7 @@
     "@babel/preset-env": "^7.5.5",
     "babel-loader": "^8.0.1",
     "font-awesome": "^4.7.0",
-    "grunt": "^1.0.2",
+    "grunt": "^1.5.3",
     "node-sass": "^4.8.3",
     "tether": "^1.4.3"
   }
